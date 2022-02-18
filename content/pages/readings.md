@@ -7,7 +7,7 @@ title: Readings
 uid: 5d7531ca-3b0f-ef3f-b5fd-112a470f6ef4
 ---
 
-[Study Questions]({{< baseurl >}}/pages/study-questions) are available for select readings and cases below.
+{{< resource_link 043f98a6-8a08-6d24-ffd5-13f5f8bd84e0 "Study Questions" >}} are available for select readings and cases below.
 
 Course Textbook
 ---------------
