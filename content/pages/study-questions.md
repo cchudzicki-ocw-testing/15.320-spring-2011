@@ -6,7 +6,7 @@ title: Study Questions
 uid: 043f98a6-8a08-6d24-ffd5-13f5f8bd84e0
 ---
 
-The case and study questions below are provided to guide you through some of the {{< resource_link 5d7531ca-3b0f-ef3f-b5fd-112a470f6ef4 "Readings" >}}.
+The case and study questions below are provided to guide you through some of the {{% resource_link 5d7531ca-3b0f-ef3f-b5fd-112a470f6ef4 "Readings" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
