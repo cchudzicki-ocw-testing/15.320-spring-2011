@@ -39,7 +39,7 @@ LECTURE NOTES
 What is strategic organizational design?
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 875f1f29-0025-a225-276c-b420e5322010 "PDF - 2.1MB" %}})
+({{% resource_link 875f1f29-0025-a225-276c-b420e5322010 "PDF - 2.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +63,7 @@ Case: eBay
 Why are things changing?
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 58b0fe11-8e3d-aebc-d74b-57a5a6cfa046 "PDF" %}})
+({{% resource_link 58b0fe11-8e3d-aebc-d74b-57a5a6cfa046 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +93,7 @@ Case: InnoCentive
 Basic organizational designs
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link bd53cbbd-e1ff-1187-415f-44891b41092d "PDF" %}})
+({{% resource_link bd53cbbd-e1ff-1187-415f-44891b41092d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +183,7 @@ Case: Siemens
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 539ade62-c175-8b75-6c38-5d8a987c6087 "PDF" %}})
+({{% resource_link 539ade62-c175-8b75-6c38-5d8a987c6087 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -303,7 +303,7 @@ Cases: Intel scenario, Cambrian House
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3c087c5d-cd9c-9e18-3927-6824482ade77 "PDF" %}})
+({{% resource_link 3c087c5d-cd9c-9e18-3927-6824482ade77 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -393,7 +393,7 @@ Class conclusion
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 96c920ac-4320-c4f7-74d5-ea098842df61 "PDF - 1.2MB" %}})
+({{% resource_link 96c920ac-4320-c4f7-74d5-ea098842df61 "PDF - 1.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
